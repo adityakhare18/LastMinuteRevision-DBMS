@@ -218,7 +218,7 @@ A database index is a data structure that provides a quick lookup of data in a c
 
 ###
 
-#### Join us for all the latest offcampus job updates, webinar, hackathons, resume review and a lot more :heart::heart:
+#### :heart::heart:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/aditya-khare-04235a24a/" target="_blank">
